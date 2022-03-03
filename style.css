@@ -1,0 +1,39 @@
+div{
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: 5pt, burlywood;
+}
+
+p{
+    text-align: justify;
+    background-color: cornsilk;
+    margin: 3mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    padding-left: 6mm;
+    padding-right: 6mm;
+    text-indent: 1,5cm;
+}
+#bal{
+    width: 70%;
+}
+#jobb{
+    width: 80%;
+    margin: auto;
+}
+.piros{
+    border-right-style: double;
+    border-right-style: 3mm;
+    border-right-color: darkred;
+}
+.kék{
+    padding-bottom: 1cm;
+    border-left-style: dashed;
+    border-left-style: 1mm;
+    border-left-color: blueviolet;
+
+    border-bottom-style: dashed;
+    border-bottom-style: 2mm;
+    border-bottom-color: blue;
+    
+}
